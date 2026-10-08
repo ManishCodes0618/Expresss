@@ -1,0 +1,59 @@
+{
+  "askReddit": {
+    "name": "AskReddit",
+    "description": "A community for asking and answering interesting, thought-provoking questions.",
+    "subscribers": 58838481,
+    "posts": [
+      {
+        "author": "curious_mind42",
+        "description": "What is one small decision that completely changed the direction of your life?"
+      },
+      {
+        "author": "coffee_addict",
+        "description": "What is something everyone seems to love but you just don't understand?"
+      },
+      {
+        "author": "night_owl_99",
+        "description": "If you could instantly become an expert at one skill, what would you choose?"
+      }
+    ]
+  },
+  "tech": {
+    "name": "technology",
+    "description": "A community for discussing technology, gadgets, software, and the impact of technology on society.",
+    "subscribers": 18000000,
+    "posts": [
+      {
+        "author": "tech_guru",
+        "description": "The latest generation of AI tools is changing how developers write software."
+      },
+      {
+        "author": "byte_master",
+        "description": "What technology do you think will have the biggest impact over the next five years?"
+      },
+      {
+        "author": "future_builder",
+        "description": "A new open-source project aims to make personal data storage easier and more secure."
+      }
+    ]
+  },
+  "gaming": {
+    "name": "gaming",
+    "description": "A community for discussing video games, gaming news, releases, hardware, and gaming culture.",
+    "subscribers": 40000000,
+    "posts": [
+      {
+        "author": "pixel_knight",
+        "description": "What game have you replayed more times than you can count?"
+      },
+      {
+        "author": "controller_hero",
+        "description": "Finally finished this game after 80 hours. The ending was absolutely worth it."
+      },
+      {
+        "author": "retro_player",
+        "description": "Which classic game deserves a modern remake?"
+      }
+    ]
+  }
+}

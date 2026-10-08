@@ -1,0 +1,19 @@
+<%- include('partials/head') %>
+  <body>
+   <%- include('partials/nav') %>
+
+    <h1>BROWSING THE <%= name %> SUBREDDIT</h1>
+    <p>Welcome to the <%= name %> subreddit!</p>
+    <h4><%= description %></h4>
+    <h4>Subscribers: <%= subscribers %></h4>
+    <h2>Posts:</h2>
+    <ul>
+      <% for (let post of posts) { %>
+        <li>
+          <h3><%= post.author %></h3>
+          <p>Description: <%= post.description %></p>
+        </li>
+      <% } %>
+    </ul>
+  </body>
+</html>
